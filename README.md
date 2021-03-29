@@ -16,3 +16,16 @@ Kéne egy dőltbetűs izé is
 -------------
 
 hello *world*
+
+______
+
+### ez itt egy felsorolás
+
+
+1. ez a legfontosabb
+1. Ez még azért nem annyira lényegtelen, de nem is olyan fontos
+1. ez meg már tök lényegtelen.
+1. ez egy kicsit kevésbé fontos
+
+
+
