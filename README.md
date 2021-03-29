@@ -12,3 +12,7 @@ Ez is egy h1
 ```cs
 string s = "bla";
 ```
+Kéne egy dőltbetűs izé is
+-------------
+
+hello *world*
